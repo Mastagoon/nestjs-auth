@@ -26,6 +26,7 @@
     "@nestjs/passport": "^9.0.0",
     "@nestjs/platform-express": "^9.0.0",
     "@prisma/client": "^4.7.1",
+    "@types/passport-local": "^1.0.34",
     "passport": "^0.6.0",
     "passport-google-oidc": "^0.1.0",
     "passport-local": "^1.0.0",
